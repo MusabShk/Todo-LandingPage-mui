@@ -21,5 +21,5 @@ Design features :
 ### Mobile responsive
 
 <p align="center">
-  <img src="app-screenshots/1.gif" />
+  <img src="app-screenshots/1.gif" width="350" height="600" />
 </p>
